@@ -1,5 +1,6 @@
-changes from person two
-
+<<<<<<< HEAD
 this is a dev file
+=======
 this is a qa file
+>>>>>>> qa
 
